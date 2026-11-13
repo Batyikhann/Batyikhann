@@ -1,58 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5865F2&height=160&section=header&text=Batyikhan%20Sabirzhanov&fontSize=44&fontColor=ffffff&fontAlignY=50" width="100%" alt="Banner" />
-</div>
 
-<br>
+<img src="./assets/hero.png" width="100%" alt="Батыйхан Сабиржанов — AI Product Builder & Vibe Coding Instructor. Строю рабочие продукты с AI и учу этому других. Hotel System: 13 отелей, 200+ сотрудников пользуются ей каждый день. Инструменты: Claude Code, ChatGPT Codex, n8n, Railway." />
 
-<div align="center">
+<img src="./assets/works.png" width="100%" alt="01 · Работы — три продукта для реальных заказчиков: Hotel System (CRM для отелей: FastAPI, React/Vite, PostgreSQL, Cloudinary, Railway), Alaman Ulak (сайт и админ-панель федерации: Next.js, Prisma, PostgreSQL, Render), модуль для занятий в университете (FastAPI, PostgreSQL, React/Vite, 2FA)." />
 
-  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Vibe+Coder+%E2%80%A2+Building+with+AI;Idea+%E2%86%92+Prompt+%E2%86%92+Product;Based+in+Bishkek%2C+Kyrgyzstan" alt="Typing SVG" /></a>
+<img src="./assets/approach.png" width="100%" alt="02 · Подход — вайбкодинг без самообмана: сначала задача, сборка с AI, проверка, запуск и передача." />
 
-  <br>
+<img src="./assets/teaching.png" width="100%" alt="03 · Преподавание — в JANYM MOTION веду месячную программу по вайбкодингу: чат-боты, сайты, игры, CRM-системы, AI-системы." />
 
-  <kbd>AI-Assisted Development</kbd> &nbsp;|&nbsp; <kbd>Rapid Prototyping</kbd> &nbsp;|&nbsp; <kbd>Web Apps</kbd>
+<br><br>
 
-  <br>
-  <br>
+<a href="https://alamanulakfederation.com"><img src="https://img.shields.io/badge/Alaman_Ulak-alamanulakfederation.com-15161A?style=for-the-badge&labelColor=FF5C35" alt="Alaman Ulak — alamanulakfederation.com" /></a>
 
-  <a href="https://github.com/Batyikhann"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
+<br><br>
 
-</div>
+### Хотите научиться или нужен продукт?
 
-<br>
+Напишите, что хотите собрать. Отвечу, с чего начать и сколько это займёт.
 
-### 🟦 `<About_Me>`
-> I'm Batyikhan, a vibe coder from Bishkek. I turn ideas into working products by pairing with AI: I describe what I want, iterate fast, and ship.
-> I mostly work in `TypeScript` on the web, and I care about clean design as much as working code.
+<a href="https://t.me/Batyikhannn"><img src="https://img.shields.io/badge/Telegram-@Batyikhannn-15161A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FF5C35" alt="Telegram @Batyikhannn" /></a>
+<a href="https://instagram.com/batyikhann"><img src="https://img.shields.io/badge/Instagram-@batyikhann-15161A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF5C35" alt="Instagram @batyikhann" /></a>
 
-<br>
+<br><br>
 
-### 🟦 `<Vibe_Stack>`
-<div align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,vscode&theme=dark" alt="Tech Stack" />
-</div>
+<kbd>Русский</kbd> &nbsp;|&nbsp; <kbd>Кыргызча</kbd> &nbsp;|&nbsp; <kbd>English</kbd> &nbsp;|&nbsp; <kbd>繁體中文</kbd>
 
-<br>
-
-### 🟦 `<GitHub_Stats>`
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Batyikhann&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=c9d1d9" alt="GitHub stats" />
-</div>
-
-<br>
-
-### 🟦 `<Current_Focus>`
-*  **`Building:`** Shipping my first public projects. They'll be featured here soon.
-*  **`Collaborating:`** Contributing to a TypeScript team project.
-*  **`Workflow:`** Prompt, review, refine: using AI tools to go from idea to deployed app quickly.
-
-<br>
-
----
-
-<div align="center">
-   &nbsp; <kbd>English</kbd> &nbsp;|&nbsp; <kbd>Russian</kbd> &nbsp;|&nbsp; <kbd>Kyrgyz</kbd>
 </div>
